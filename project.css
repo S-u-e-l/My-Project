@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color:transparent;
+    width: 100%;
+    margin: 10%;
+}
+.sectionhead{
+    text-align: center;
+    padding: 20px;
+    
+}
+.sectionhead h1,p{
+    color:white;
+}
+.secbody{
+    width: 100%;
+}
+.secbody img{
+    width: 100%;
+    height: 600px;
+}
+.secbody2{
+    height:350px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    padding-top:20px;
+    
+
+}
+.secbody2 p{
+    color: #808080;
+}
+.lorem{
+    padding-top:40px;
+}
+.secbody3{
+    height:900px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: rgb(8,8,48);
+}
+.subsec{
+    background-color:black;
+    width: 100%;
+    margin: 10%;
+    
+}
+.subsechead{
+    text-align: center;
+    color:white;
+    padding:10px;
+}
+.gallery{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+
+}
+.imagecontainer{
+    height: 50%;
+    width: 50%;
+}
+.imagecontainer img{
+    width: 100%;
+    height: 100%;
+}
+.gallery2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.imagecontainer2{
+    height: 50%;
+    width: 50%;
+}
+.imagecontainer2 img{
+    width: 100%;
+    height: 100%;
+}
+.imagecontainer2 p{
+    color: black;
+}
